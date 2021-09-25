@@ -1,0 +1,34 @@
+src/*.exe
+src/terrydaviscoin
+src/terrydaviscoind
+src/test_terrydaviscoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.terrydaviscoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+terrydaviscoin-qt
+TerryDavisCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+terrydaviscoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
