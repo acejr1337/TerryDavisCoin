@@ -9,14 +9,12 @@ Copyright (c) 2011-2014 TerryDavisCoin Developers
 What is TerryDavisCoin?
 ----------------
 
-TerryDavisCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+TerryDavisCoin is a fork version of Litecoin using scrypt as a proof-of-work algorithm.
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+TerryDavisCoin was made as a meme coin referencing 'Terrence Andrew Davis', an american schizophrenic programmer who made templeos.
+You can feel free to find more information about templeos here: https://templeos.org/
+
+All TempleOS supporters will find this coin interesting. 
 
 For more information, as well as an immediately useable, binary version of
 the TerryDavisCoin client sofware, see http://www.terrydaviscoin.org.
