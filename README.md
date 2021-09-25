@@ -5,7 +5,7 @@ http://www.terrydaviscoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2021 Chace Zwagerman
+Copyright (c) 2021 TerryDavisCoin Developers
 
 What is TerryDavisCoin?
 ----------------
