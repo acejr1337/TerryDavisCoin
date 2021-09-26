@@ -3,7 +3,7 @@ TerryDavisCoin integration/staging tree
 Website:
 http://www.terrydaviscoin.org
 Discord:
-https://discord.gg/psmFufeDu2
+https://discord.gg/4aapVvDZrp
 Twitter: 
 https://twitter.com/terrydaviscoin
 ================================
