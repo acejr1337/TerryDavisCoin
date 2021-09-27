@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <class>OverviewPage</class>
  <widget class="QLabel" name="OverviewPage">
@@ -212,7 +212,7 @@
                <string>Mined balance in watch-only addresses that has not yet matured</string>
               </property>
               <property name="styleSheet">
-               <string notr="true">color: rgb(102, 162, 210);</string>
+               <string notr="true">color: rgb(68, 72, 76);</string>
               </property>
               <property name="text">
                <string notr="true">0.000 000 00 TDC</string>
@@ -273,7 +273,7 @@
                <string>Mined balance that has not yet matured</string>
               </property>
               <property name="styleSheet">
-               <string notr="true">color: rgb(102, 162, 210);</string>
+               <string notr="true">color: rgb(68, 72, 76);</string>
               </property>
               <property name="text">
                <string notr="true">0.000 000 00 TDC</string>
@@ -310,6 +310,7 @@
              <widget class="QLabel" name="labelTotal">
               <property name="font">
                <font>
+                <pointsize>8</pointsize>
                 <weight>75</weight>
                 <bold>true</bold>
                </font>
@@ -321,7 +322,7 @@
                <string>Your current total balance</string>
               </property>
               <property name="styleSheet">
-               <string notr="true">color: rgb(68, 72, 76);</string>
+               <string notr="true">color: rgb(50, 50, 50);</string>
               </property>
               <property name="text">
                <string notr="true">0.000 000 00 TDC</string>
@@ -349,7 +350,7 @@
                <string>Current total balance in watch-only addresses</string>
               </property>
               <property name="styleSheet">
-               <string notr="true">color: rgb(68, 72, 76);</string>
+               <string notr="true">color: rgb(50, 50, 50);</string>
               </property>
               <property name="text">
                <string notr="true">0.000 000 00 TDC</string>
@@ -395,7 +396,7 @@
                <string>Your current spendable balance</string>
               </property>
               <property name="styleSheet">
-               <string notr="true">color: rgb(27, 117, 188);</string>
+               <string notr="true">color: rgb(20, 20, 20);</string>
               </property>
               <property name="text">
                <string notr="true">0.000 000 00 TDC</string>
@@ -423,7 +424,7 @@
                <string>Your current balance in watch-only addresses</string>
               </property>
               <property name="styleSheet">
-               <string notr="true">color: rgb(27, 117, 188);</string>
+               <string notr="true">color: rgb(20, 20, 20);</string>
               </property>
               <property name="text">
                <string notr="true">0.000 000 00 TDC</string>
