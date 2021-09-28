@@ -21,7 +21,7 @@ You can feel free to find more information about templeos here: https://templeos
 ================================================================================================================================
 **Absolutely no disrespect towards Terry in anyway, this was done as a community driven project but also as a study project**
 **this was purely made with no ill intent - I genuinely like Terry Davis and support what he had founded**
-**Spread your love for Terry Davis and his family and spread good wishes to him & his family**
+**spread your love and good wishes for 'king terry' and his family**
 ================================================================================================================================
 All TempleOS supporters will find this coin interesting. 
 
