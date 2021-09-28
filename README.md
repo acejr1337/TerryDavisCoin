@@ -18,11 +18,11 @@ TerryDavisCoin is a fork version of Litecoin using scrypt as a proof-of-work alg
 
 TerryDavisCoin was made as a meme coin referencing 'Terrence Andrew Davis', an american schizophrenic programmer who made templeos.
 You can feel free to find more information about templeos here: https://templeos.org/
-
+================================================================================================================================
 **Absolutely no disrespect towards Terry in anyway, this was done as a community driven project but also as a study project**
-**This was purely with no ill intent - I genuinely like Terry Davis and support what he had founded**
+**this was purely made with no ill intent - I genuinely like Terry Davis and support what he had founded**
 **Spread your love for Terry Davis and his family and spread good wishes to him & his family**
-
+================================================================================================================================
 All TempleOS supporters will find this coin interesting. 
 
 For more information, as well as an immediately useable, binary version of
